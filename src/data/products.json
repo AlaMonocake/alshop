@@ -1,0 +1,912 @@
+[
+  {
+    "id": 1,
+    "title": "Tohka and Sandalphon",
+    "price": 11055.0,
+    "category": "Date a Live",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/dal/tohka1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "title": "Cool Tohka with Sandalphon",
+    "price": 6324.99,
+    "category": "Date a Live",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/dal/tohka2.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "title": "Awesome Kurumi",
+    "price": 9673.99,
+    "category": "Date a Live",
+    "manufacturer": "Clocks n' stuff",
+    "images": ["/ProductImages/dal/kurumi1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "title": "Cool Kurumi",
+    "price": 363.0,
+    "category": "Date a Live",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/dal/kurumi2.jpg"],
+    "inStock": false
+  },
+  {
+    "id": 5,
+    "title": "Date a Live summer collection",
+    "price": 5646673.0,
+    "category": "Date a Live",
+    "manufacturer": "FuRyu",
+    "images": ["/ProductImages/dal/images.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "title": "Natsumi Big",
+    "price": 73.99,
+    "category": "Date a Live",
+    "manufacturer": "Something or Other",
+    "images": ["/ProductImages/dal/natsumi1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "title": "Mimi and Palmon",
+    "price": 324.0,
+    "category": "Digimon",
+    "manufacturer": "Cute Stuff",
+    "images": ["/ProductImages/dgm/mimi1.jpg"],
+    "inStock": false
+  },
+  {
+    "id": 8,
+    "title": "Mimi and Lilimon",
+    "price": 1633.0,
+    "category": "Digimon",
+    "manufacturer": "G.E.M",
+    "images": ["/ProductImages/dgm/mimi2.webp"],
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "title": "Yamato and Gabumon",
+    "price": 545.0,
+    "category": "Digimon",
+    "manufacturer": "Something or Other",
+    "images": ["/ProductImages/dgm/yamato1.jpg"],
+    "inStock": false
+  },
+  {
+    "id": 10,
+    "title": "Yamato with Gabumon",
+    "price": 2.0,
+    "category": "Digimon",
+    "manufacturer": "Simple TM",
+    "images": ["/ProductImages/dgm/yamato2.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "title": "Adventure Hikari and Angewomon",
+    "price": 243546.99,
+    "category": "Digimon",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/dgm/kari1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "title": "Adventure 2020 Hikari and Angewomon",
+    "price": 274350446.99,
+    "category": "Digimon",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/dgm/kari2.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 13,
+    "title": "Takeru and Angemon",
+    "price": 557.99,
+    "category": "Digimon",
+    "manufacturer": "G.E.M",
+    "images": ["/ProductImages/dgm/tk1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 15,
+    "title": "Epic Junko with Monokuma",
+    "price": 999999999.99,
+    "category": "Danganronpa",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/dr/junko1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 16,
+    "title": "Mikan",
+    "price": 6.99,
+    "category": "Danganronpa",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/dr/mikan1.jpg"],
+    "inStock": false
+  },
+  {
+    "id": 17,
+    "title": "Celestia Ludenberg",
+    "price": 946.99,
+    "category": "Danganronpa",
+    "manufacturer": "Something or Other",
+    "images": ["/ProductImages/dr/celestia1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 18,
+    "title": "Classic Junko",
+    "price": 1.99,
+    "category": "Danganronpa",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/dr/junko2.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 19,
+    "title": "Kaede Epic",
+    "price": 9596.99,
+    "category": "Danganronpa",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/dr/kaede1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 20,
+    "title": "Chiaki Epic",
+    "price": 99959.99,
+    "category": "Danganronpa",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/dr/chiaki1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 21,
+    "title": "Cute Chiaki with Monomi",
+    "price": 1.99,
+    "category": "Danganronpa",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/dr/chiaki2.jpg"],
+    "inStock": false
+  },
+  {
+    "id": 22,
+    "title": "Kyoko Epic",
+    "price": 91946.99,
+    "category": "Danganronpa",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/dr/kyouko1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 23,
+    "title": "Oberon Vortigern",
+    "price": 99999999999.99,
+    "category": "Fate",
+    "manufacturer": "Alter",
+    "images": [
+      "/ProductImages/fate/obe1.webp",
+      "/ProductImages/fate/obe2.webp",
+      "/ProductImages/fate/obe3.webp",
+      "/ProductImages/fate/obe4.webp",
+      "/ProductImages/fate/obe5.webp"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 24,
+    "title": "Koyanskaya of Light",
+    "price": 75349.0,
+    "category": "Fate",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/fate/koyan1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 25,
+    "title": "Rin Cool",
+    "price": 2.0,
+    "category": "Fate",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/fate/rin1.webp"],
+    "inStock": false
+  },
+  {
+    "id": 26,
+    "title": "Saber Alter",
+    "price": 9.0,
+    "category": "Fate",
+    "manufacturer": "Something or Other",
+    "images": ["/ProductImages/fate/salter1.webp"],
+    "inStock": false
+  },
+  {
+    "id": 27,
+    "title": "Oei Noodle Stopper",
+    "price": 2.0,
+    "category": "Fate",
+    "manufacturer": "FuRyu",
+    "images": ["/ProductImages/fate/hoku1.webp"],
+    "inStock": false
+  },
+  {
+    "id": 28,
+    "title": "Caltria Epic",
+    "price": 654329.0,
+    "category": "Fate",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/fate/castoria1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 29,
+    "title": "Kama",
+    "price": 0.0,
+    "category": "Fate",
+    "manufacturer": "IDK",
+    "images": ["/ProductImages/fate/kama1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 30,
+    "title": "Jeanne Alter",
+    "price": 910000000.0,
+    "category": "Fate",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/fate/jalter1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 31,
+    "title": "Koyanskaya China",
+    "price": 2.0,
+    "category": "Fate",
+    "manufacturer": "My Gods",
+    "images": ["/ProductImages/fate/koyan2.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 32,
+    "title": "Oei Summer",
+    "price": 12.0,
+    "category": "Fate",
+    "manufacturer": "IDK",
+    "images": ["/ProductImages/fate/hoku2.webp"],
+    "inStock": true
+  },
+  {
+    "id": 33,
+    "title": "Astolfo Saber",
+    "price": 29.0,
+    "category": "Fate",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/fate/astolfo1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 34,
+    "title": "Ereshkigal",
+    "price": 10.0,
+    "category": "Fate",
+    "manufacturer": "My Gods",
+    "images": ["/ProductImages/fate/eresh1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 35,
+    "title": "Tamamo Summer",
+    "price": 9900000.0,
+    "category": "Fate",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/fate/tama1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 36,
+    "title": "Altria Pendragon",
+    "price": 92.0,
+    "category": "Fate",
+    "manufacturer": "My Gods",
+    "images": ["/ProductImages/fate/art1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 37,
+    "title": "Rin Cool",
+    "price": 10000.0,
+    "category": "Fate",
+    "manufacturer": "Something or Other",
+    "images": ["/ProductImages/fate/rin2.webp"],
+    "inStock": true
+  },
+  {
+    "id": 38,
+    "title": "Brynhild",
+    "price": 999.0,
+    "category": "Fate",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/fate/bryn1.jpg"],
+    "inStock": false
+  },
+  {
+    "id": 39,
+    "title": "Hokusai",
+    "price": 9000.0,
+    "category": "Fate",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/fate/hoku3.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 40,
+    "title": "Durga",
+    "price": 900000.0,
+    "category": "Fate",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/fate/durga1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 41,
+    "title": "Gilgachad",
+    "price": 90000.0,
+    "category": "Fate",
+    "manufacturer": "My Gods",
+    "images": ["/ProductImages/fate/gil1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 42,
+    "title": "Passionlip",
+    "price": 9.0,
+    "category": "Fate",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/fate/pl1.jpg"],
+    "inStock": false
+  },
+  {
+    "id": 43,
+    "title": "Cloud Strife",
+    "price": 9550.0,
+    "category": "Final Fantasy",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/ff/cloud1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 44,
+    "title": "Aerith Cocktail",
+    "price": 100.0,
+    "category": "Final Fantasy",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/ff/aer1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 45,
+    "title": "Noctis",
+    "price": 80.0,
+    "category": "Final Fantasy",
+    "manufacturer": "Something or Other",
+    "images": ["/ProductImages/ff/noctis1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 46,
+    "title": "Lighting",
+    "price": 9959.0,
+    "category": "Final Fantasy",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/ff/lighting1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 47,
+    "title": "Grand Kiana",
+    "price": 9000000.0,
+    "category": "Honkai Impact 3rd",
+    "manufacturer": "My Gods",
+    "images": ["/ProductImages/hi3/kiana1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 48,
+    "title": "Theresa Pretty",
+    "price": 200.0,
+    "category": "Honkai Impact 3rd",
+    "manufacturer": "My Gods",
+    "images": ["/ProductImages/hi3/teri1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 49,
+    "title": "Mei Epic",
+    "price": 21000000.0,
+    "category": "Honkai Impact 3rd",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/hi3/mei1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 50,
+    "title": "Elysia Maid",
+    "price": 2.0,
+    "category": "Honkai Impact 3rd",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/hi3/ely1.jpg"],
+    "inStock": false
+  },
+  {
+    "id": 51,
+    "title": "Mobius Summer",
+    "price": 200.0,
+    "category": "Honkai Impact 3rd",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/hi3/mobi1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 52,
+    "title": "Herrscher of the Void",
+    "price": 10000.0,
+    "category": "Honkai Impact 3rd",
+    "manufacturer": "Something or Other",
+    "images": ["/ProductImages/hi3/kia2.webp"],
+    "inStock": true
+  },
+  {
+    "id": 53,
+    "title": "Kianya Summer",
+    "price": 200.0,
+    "category": "Honkai Impact 3rd",
+    "manufacturer": "My Gods",
+    "images": ["/ProductImages/hi3/kia3.webp"],
+    "inStock": true
+  },
+  {
+    "id": 54,
+    "title": "Parasol Kaiserin",
+    "price": 10.0,
+    "category": "Honkai Impact 3rd",
+    "manufacturer": "My Gods",
+    "images": ["/ProductImages/hi3/kia4.webp"],
+    "inStock": false
+  },
+  {
+    "id": 55,
+    "title": "Yae Sakura",
+    "price": 10.0,
+    "category": "Honkai Impact 3rd",
+    "manufacturer": "IDK",
+    "images": ["/ProductImages/hi3/yae1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 56,
+    "title": "Herrscher of Human: Ego",
+    "price": 9000.0,
+    "category": "Honkai Impact 3rd",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/hi3/ely2.png"],
+    "inStock": true
+  },
+  {
+    "id": 57,
+    "title": "Dan Heng Imbibitor Lunae",
+    "price": 9000.0,
+    "category": "Honkai: Star Rail",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/hsr/dh1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 58,
+    "title": "Firefly",
+    "price": 900.0,
+    "category": "Honkai: Star Rail",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/hsr/ff1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 59,
+    "title": "Elegant Kafka",
+    "price": 100.0,
+    "category": "Honkai: Star Rail",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/hsr/kaf1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 60,
+    "title": "Firefly Cute",
+    "price": 1.0,
+    "category": "Honkai: Star Rail",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/hsr/ff2.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 61,
+    "title": "Elegant Castorice",
+    "price": 90.0,
+    "category": "Honkai: Star Rail",
+    "manufacturer": "My Gods",
+    "images": ["/ProductImages/hsr/castorice1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 62,
+    "title": "Kafka",
+    "price": 9000.0,
+    "category": "Honkai: Star Rail",
+    "manufacturer": "My Gods",
+    "images": ["/ProductImages/hsr/kaf2.webp"],
+    "inStock": true
+  },
+  {
+    "id": 63,
+    "title": "March Forgot",
+    "price": 100.0,
+    "category": "Honkai: Star Rail",
+    "manufacturer": "Something or Other",
+    "images": ["/ProductImages/hsr/mar1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 64,
+    "title": "Aventurine",
+    "price": 9950.0,
+    "category": "Honkai: Star Rail",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/hsr/ave1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 65,
+    "title": "Hyacinthia",
+    "price": 200.0,
+    "category": "Honkai: Star Rail",
+    "manufacturer": "IDK",
+    "images": ["/ProductImages/hsr/hya1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 66,
+    "title": "Madoka and Kyubey",
+    "price": 2.0,
+    "category": "Puella Magi Madoka Magica",
+    "manufacturer": "Ala Goods",
+    "images": [
+      "/ProductImages/madomagi/mad1.jpg",
+      "/ProductImages/madomagi/mad2.jpg",
+      "/ProductImages/madomagi/mad3.jpg",
+      "/ProductImages/madomagi/mad4.jpg"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 67,
+    "title": "Madokami",
+    "price": 909000.0,
+    "category": "Puella Magi Madoka Magica",
+    "manufacturer": "Wallet Co.",
+    "images": [
+      "/ProductImages/madomagi/mk1.jpg",
+      "/ProductImages/madomagi/mk2.jpg",
+      "/ProductImages/madomagi/mk3.jpg",
+      "/ProductImages/madomagi/mk4.jpg"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 68,
+    "title": "Madokami Arrow",
+    "price": 99000.0,
+    "category": "Puella Magi Madoka Magica",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/madomagi/mk2_1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 69,
+    "title": "Madokanniversary",
+    "price": 9000.0,
+    "category": "Puella Magi Madoka Magica",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/madomagi/manniv.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 70,
+    "title": "Homura",
+    "price": 100.0,
+    "category": "Puella Magi Madoka Magica",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/madomagi/hom1.webp"],
+    "inStock": false
+  },
+  {
+    "id": 71,
+    "title": "Madokami x Akumura",
+    "price": 900000.0,
+    "category": "Puella Magi Madoka Magica",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/madomagi/madoaku1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 72,
+    "title": "Madoka Cute",
+    "price": 10.0,
+    "category": "Puella Magi Madoka Magica",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/madomagi/mado1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 73,
+    "title": "Madoka Magica Collection",
+    "price": 10000.0,
+    "category": "Puella Magi Madoka Magica",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/madomagi/madocol1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 74,
+    "title": "New Madoka",
+    "price": 5000.0,
+    "category": "Puella Magi Madoka Magica",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/madomagi/nm1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 75,
+    "title": "Madokami Gem",
+    "price": 900000.0,
+    "category": "Puella Magi Madoka Magica",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/madomagi/madg1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 76,
+    "title": "Scarlet",
+    "price": 100.0,
+    "category": "Goddess of Victory: NIKKE",
+    "manufacturer": "IDK",
+    "images": ["/ProductImages/nikke/sca1.webp"],
+    "inStock": false
+  },
+  {
+    "id": 77,
+    "title": "Cute Alice",
+    "price": 1.0,
+    "category": "Goddess of Victory: NIKKE",
+    "manufacturer": "My Gods",
+    "images": [
+      "/ProductImages/nikke/ali1.jpg",
+      "/ProductImages/nikke/ali2.jpg"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 78,
+    "title": "Dorothy Romance",
+    "price": 14.0,
+    "category": "Goddess of Victory: NIKKE",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/nikke/doro1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 79,
+    "title": "Siren Summer",
+    "price": 9000.0,
+    "category": "Goddess of Victory: NIKKE",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/nikke/lm1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 80,
+    "title": "Yuni Noodle Stopper",
+    "price": 100.0,
+    "category": "Goddess of Victory: NIKKE",
+    "manufacturer": "IDK",
+    "images": ["/ProductImages/nikke/yuni1.jpg"],
+    "inStock": false
+  },
+  {
+    "id": 81,
+    "title": "Cinderella Elegance",
+    "price": 9000.0,
+    "category": "Goddess of Victory: NIKKE",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/nikke/cind1.webp"],
+    "inStock": false
+  },
+  {
+    "id": 82,
+    "title": "Cinderella Epic",
+    "price": 9500.0,
+    "category": "Goddess of Victory: NIKKE",
+    "manufacturer": "Wallet Co.",
+    "images": ["/ProductImages/nikke/cind2.webp"],
+    "inStock": true
+  },
+  {
+    "id": 83,
+    "title": "Dorothy Battle",
+    "price": 400.0,
+    "category": "Goddess of Victory: NIKKE",
+    "manufacturer": "IDK",
+    "images": ["/ProductImages/nikke/doro2.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 84,
+    "title": "Scarlet Shadow",
+    "price": 100.0,
+    "category": "Goddess of Victory: NIKKE",
+    "manufacturer": "IDK",
+    "images": ["/ProductImages/nikke/sca2.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 85,
+    "title": "Alice Noodle Stopper",
+    "price": 1.0,
+    "category": "Goddess of Victory: NIKKE",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/nikke/ali3.jpg"],
+    "inStock": false
+  },
+  {
+    "id": 86,
+    "title": "May",
+    "price": 1000.0,
+    "category": "Pokemon",
+    "manufacturer": "IDK",
+    "images": ["/ProductImages/pkm/may1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 87,
+    "title": "N Harmonia",
+    "price": 900.0,
+    "category": "Pokemon",
+    "manufacturer": "Something or Other",
+    "images": ["/ProductImages/pkm/n1.jpg"],
+    "inStock": false
+  },
+  {
+    "id": 88,
+    "title": "Dawn and Piplup",
+    "price": 1000.0,
+    "category": "Pokemon",
+    "manufacturer": "ARTFXJ",
+    "images": ["/ProductImages/pkm/dawn1.png"],
+    "inStock": true
+  },
+  {
+    "id": 89,
+    "title": "Gold and Cyndaquil",
+    "price": 2500.0,
+    "category": "Pokemon",
+    "manufacturer": "ARTFXJ",
+    "images": ["/ProductImages/pkm/gold1.png"],
+    "inStock": true
+  },
+  {
+    "id": 90,
+    "title": "Hilda and Tepig",
+    "price": 9000.0,
+    "category": "Pokemon",
+    "manufacturer": "ARTFXJ",
+    "images": ["/ProductImages/pkm/hil1.png"],
+    "inStock": false
+  },
+  {
+    "id": 91,
+    "title": "May New",
+    "price": 2100.0,
+    "category": "Pokemon",
+    "manufacturer": "ARTFXJ",
+    "images": ["/ProductImages/pkm/may2.png"],
+    "inStock": true
+  },
+  {
+    "id": 92,
+    "title": "Moon and Rowlet",
+    "price": 1000.0,
+    "category": "Pokemon",
+    "manufacturer": "ARTFXJ",
+    "images": ["/ProductImages/pkm/moon1.webp"],
+    "inStock": false
+  },
+  {
+    "id": 93,
+    "title": "Serena and Fennekin",
+    "price": 1500.0,
+    "category": "Pokemon",
+    "manufacturer": "ARTFXJ",
+    "images": ["/ProductImages/pkm/ser1.png"],
+    "inStock": false
+  },
+  {
+    "id": 94,
+    "title": "Rosa",
+    "price": 1000.0,
+    "category": "Pokemon",
+    "manufacturer": "IDK",
+    "images": ["/ProductImages/pkm/rosa1.webp"],
+    "inStock": false
+  },
+  {
+    "id": 95,
+    "title": "Dawn New",
+    "price": 3200.0,
+    "category": "Pokemon",
+    "manufacturer": "IDK",
+    "images": ["/ProductImages/pkm/dawn2.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 96,
+    "title": "Dark Magician Girl",
+    "price": 9000.0,
+    "category": "Yu-Gi-Oh!",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/ygo/dmg1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 97,
+    "title": "Dark Magician Girl Fancy",
+    "price": 10000.0,
+    "category": "Yu-Gi-Oh!",
+    "manufacturer": "My Gods",
+    "images": ["/ProductImages/ygo/dmg2.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 98,
+    "title": "Kaiba Seto",
+    "price": 9500.0,
+    "category": "Yu-Gi-Oh!",
+    "manufacturer": "My Gods",
+    "images": ["/ProductImages/ygo/kaib1.jpg"],
+    "inStock": true
+  },
+  {
+    "id": 99,
+    "title": "Yugi Muto",
+    "price": 200.0,
+    "category": "Yu-Gi-Oh!",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/ygo/yug1.webp"],
+    "inStock": true
+  },
+  {
+    "id": 100,
+    "title": "Yami Yugi x Dark Magician Girl",
+    "price": 2.0,
+    "category": "Yu-Gi-Oh!",
+    "manufacturer": "Ala Goods",
+    "images": ["/ProductImages/ygo/dmga1.jpg"],
+    "inStock": true
+  }
+]
